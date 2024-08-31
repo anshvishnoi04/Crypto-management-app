@@ -13,7 +13,7 @@ Provides users with a curated list of the top 10 cryptocurrencies based on marke
 Allows users to create and manage their own personalized watchlist, enabling them to track and monitor specific cryptocurrencies of interest for future investment opportunities.
 
 
-# Trending Cryptocurrencies: 
+#### Trending Cryptocurrencies: 
 
 Identifies and displays the currently trending cryptocurrencies, helping users stay informed about the latest market movements and potential investment opportunities.
 
